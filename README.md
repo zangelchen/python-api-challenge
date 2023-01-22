@@ -69,6 +69,8 @@ Create a map that displays a point for every city in the city_data_df DataFrame 
 
 Create a second map to find the first hotel located within 10,000 meters of your coordinates.Add the hotel name and the country as additional information in the hover message for each city on the map. 
 
+![image](https://user-images.githubusercontent.com/117549284/213905421-dd1ae685-5659-4e76-99ef-f0354cf03524.png)
+
 
 
 
